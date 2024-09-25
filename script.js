@@ -4,7 +4,7 @@ function displayFormData() {
 	var lname=document.getElementById("lname").value;
 	var pname=document.getElementById("pname").value;
 	var email=document.getElementById("email").value;
-	var message= "First Name1:"+Fname+"Last Name:"+lname+"Phone Number:"+pname+"Email ID"+email;
+	var message= "First Name:"+Fname+"Last Name:"+lname+"Phone Number:"+pname+"Email ID"+email;
 	alert(message);
 	
 }
