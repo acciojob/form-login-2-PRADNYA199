@@ -1,10 +1,10 @@
 //your JS code here. If required.
 function displayFormData() {
-	var Fname=document.getElementById("Fname").value;
-	var lname=document.getElementById("lname").value;
-	var pname=document.getElementById("pname").value;
-	var email=document.getElementById("email").value;
-	var message= "First Name:"+Fname+"Last Name:"+lname+"Phone Number:"+pname+"Email ID"+email;
+	var First Name=document.getElementById("Fname").value;
+	var Last Name=document.getElementById("lname").value;
+	var Phone Number=document.getElementById("pname").value;
+	var Email ID=document.getElementById("email").value;
+	var message= "First Name:"+First Name+"Last Name:"+Last Name+"Phone Number:"+Phone Number+"Email ID"+Email ID;
 	alert(message);
 	
 }
